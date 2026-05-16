@@ -1,0 +1,9 @@
+{
+  "timeIntervals": [0,5,10,15,20,25],
+  "predictionDelta": 5,
+  "services": [
+    {"id": "S1", "slaThreshold": 400.0, "flexibility": 2},
+    {"id": "S2", "slaThreshold": 350.0, "flexibility": 1}
+  ],
+  "outputDir": "simulation_output"
+}
